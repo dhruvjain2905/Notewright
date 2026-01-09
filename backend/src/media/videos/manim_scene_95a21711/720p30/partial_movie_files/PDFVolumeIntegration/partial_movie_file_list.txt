@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_95a21711/720p30/partial_movie_files/PDFVolumeIntegration/1702590154_2840115676_3555642906.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_95a21711/720p30/partial_movie_files/PDFVolumeIntegration/3076678761_3197511790_3803680524.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_95a21711/720p30/partial_movie_files/PDFVolumeIntegration/3076678761_233831863_414161990.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_95a21711/720p30/partial_movie_files/PDFVolumeIntegration/3076678761_650641431_3570845035.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_95a21711/720p30/partial_movie_files/PDFVolumeIntegration/3076678761_983820469_3997393141.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_95a21711/720p30/partial_movie_files/PDFVolumeIntegration/3076678761_233831863_363013232.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_95a21711/720p30/partial_movie_files/PDFVolumeIntegration/3076678761_1439448258_3354794435.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_95a21711/720p30/partial_movie_files/PDFVolumeIntegration/3076678761_2631580503_2249752655.mp4'

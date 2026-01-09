@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/1987512680_1083840212_223132457.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_4217992463_4079946313.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_461134852_1932280604.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_1332815527_323374489.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_4217992463_2588818147.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_411860208_4204243188.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_1789371233_2330189504.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_2314390326_3435313898.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_4217992463_344969407.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_3318518807_3519513048.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_4189105581_3241890028.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_f82d2977/720p30/partial_movie_files/DerivativeLimitVisualization/2538612922_2844360058_3070426598.mp4'

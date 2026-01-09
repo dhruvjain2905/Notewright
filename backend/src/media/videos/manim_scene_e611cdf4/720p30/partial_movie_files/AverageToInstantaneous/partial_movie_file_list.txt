@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_e611cdf4/720p30/partial_movie_files/AverageToInstantaneous/1987512680_2501166681_223132457.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_e611cdf4/720p30/partial_movie_files/AverageToInstantaneous/2538612922_2844360058_3756343713.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_e611cdf4/720p30/partial_movie_files/AverageToInstantaneous/2538612922_3066046711_2326257067.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_e611cdf4/720p30/partial_movie_files/AverageToInstantaneous/2538612922_3753838622_3918806728.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_e611cdf4/720p30/partial_movie_files/AverageToInstantaneous/2538612922_2841243407_316138051.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_e611cdf4/720p30/partial_movie_files/AverageToInstantaneous/2538612922_2998934817_2967537414.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_e611cdf4/720p30/partial_movie_files/AverageToInstantaneous/2538612922_3484913905_729722496.mp4'
+file 'file:/Users/dhruvjain/multimodal-notes-generator/backend/src/media/videos/manim_scene_e611cdf4/720p30/partial_movie_files/AverageToInstantaneous/2538612922_3617829447_3200488737.mp4'

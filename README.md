@@ -29,7 +29,7 @@ Notewright transforms educational content into rich, interactive multimedia arti
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/attune.git
-   cd attune
+   cd notewright
    ```
 
 2. **Configure environment variables**
@@ -46,7 +46,7 @@ Notewright transforms educational content into rich, interactive multimedia arti
    cd ..
    ```
 
-### Running Attune
+### Running Notewright
 
 1. **Start the backend**
    ```bash

@@ -1,4 +1,4 @@
-# 📚 Notewright - AI-Powered Educational Content Generator
+# Notewright - AI-Powered Educational Content Generator
 
 ![Made with React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat&logo=react)
 ![Made with FastAPI](https://img.shields.io/badge/FastAPI-0.125-009688?style=flat&logo=fastapi)
@@ -11,7 +11,7 @@ Notewright transforms educational content into rich, interactive multimedia arti
 
 **Example**: Ask "Explain derivatives" → Get an interactive article with formatted text, LaTeX equations, static diagrams showing tangent lines, and animated videos demonstrating limit processes.
 
-## 🚀 Installation
+## Installation
 
 ---
 

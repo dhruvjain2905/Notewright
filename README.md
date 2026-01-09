@@ -1,4 +1,4 @@
-# Notewright - AI-Powered Educational Content Generator
+# Notewright
 
 ![Made with React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat&logo=react)
 ![Made with FastAPI](https://img.shields.io/badge/FastAPI-0.125-009688?style=flat&logo=fastapi)

@@ -28,7 +28,7 @@ Notewright transforms educational content into rich, interactive multimedia arti
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/attune.git
+   git clone https://github.com/dhruvjain2905/Notewright.git
    cd notewright
    ```
 

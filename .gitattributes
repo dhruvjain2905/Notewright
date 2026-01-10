@@ -1,2 +1,2 @@
 # Ignore generated HTML
-*frontend.public.html linguist-generated
+frontend/public/** linguist-vendored
